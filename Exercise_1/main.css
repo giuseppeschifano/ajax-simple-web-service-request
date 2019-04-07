@@ -1,0 +1,24 @@
+
+button {
+    width: 250px;
+    height: 50px;
+    background: lightblue;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  
+p {
+  font-size: 22px;
+}
+
+#author {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+#image {
+  width: 20%;
+  height: 20%;
+}
+
